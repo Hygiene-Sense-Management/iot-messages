@@ -537,7 +537,19 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "wrvoQCcmZ04akdGRQCM9lQ=="
+          "hash": "27yqkBhTyQG3Y7Ft6rEYlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "oomxpG+e005aKfdUJjYHrw=="
         }
       },
       "is_incremental": false,
@@ -585,7 +597,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "IGK1ZSYI4NbShXZSeUUd6Q=="
+          "hash": "+rHUkRZHZRi5gd1aTU6lJA=="
         }
       },
       "is_incremental": false,
