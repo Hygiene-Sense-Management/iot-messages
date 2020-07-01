@@ -3,1198 +3,720 @@ sorted: true
 references:
 - uid: Hsm.IotMessages
   name: Hsm.IotMessages
-  href: api/SDK/Hsm.IotMessages.html
+  href: api/Hsm.IotMessages.html
   commentId: N:Hsm.IotMessages
   fullName: Hsm.IotMessages
   nameWithType: Hsm.IotMessages
 - uid: Hsm.IotMessages.DeviceSystemMessages
   name: Hsm.IotMessages.DeviceSystemMessages
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.html
   commentId: N:Hsm.IotMessages.DeviceSystemMessages
   fullName: Hsm.IotMessages.DeviceSystemMessages
   nameWithType: Hsm.IotMessages.DeviceSystemMessages
 - uid: Hsm.IotMessages.DeviceSystemMessages.CloudToDevice
   name: Hsm.IotMessages.DeviceSystemMessages.CloudToDevice
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.html
   commentId: N:Hsm.IotMessages.DeviceSystemMessages.CloudToDevice
   fullName: Hsm.IotMessages.DeviceSystemMessages.CloudToDevice
   nameWithType: Hsm.IotMessages.DeviceSystemMessages.CloudToDevice
 - uid: Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.CloudToDeviceSystemMessage
   name: CloudToDeviceSystemMessage
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.CloudToDeviceSystemMessage.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.CloudToDeviceSystemMessage.html
   commentId: T:Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.CloudToDeviceSystemMessage
   fullName: Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.CloudToDeviceSystemMessage
   nameWithType: CloudToDeviceSystemMessage
 - uid: Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.CloudToDeviceSystemMessage.SystemData
   name: SystemData
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.CloudToDeviceSystemMessage.html#Hsm_IotMessages_DeviceSystemMessages_CloudToDevice_CloudToDeviceSystemMessage_SystemData
+  href: api/Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.CloudToDeviceSystemMessage.html#Hsm_IotMessages_DeviceSystemMessages_CloudToDevice_CloudToDeviceSystemMessage_SystemData
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.CloudToDeviceSystemMessage.SystemData
   fullName: Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.CloudToDeviceSystemMessage.SystemData
   nameWithType: CloudToDeviceSystemMessage.SystemData
 - uid: Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.CloudToDeviceSystemMessage.SystemData*
   name: SystemData
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.CloudToDeviceSystemMessage.html#Hsm_IotMessages_DeviceSystemMessages_CloudToDevice_CloudToDeviceSystemMessage_SystemData_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.CloudToDeviceSystemMessage.html#Hsm_IotMessages_DeviceSystemMessages_CloudToDevice_CloudToDeviceSystemMessage_SystemData_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.CloudToDeviceSystemMessage.SystemData
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.CloudToDeviceSystemMessage.SystemData
   nameWithType: CloudToDeviceSystemMessage.SystemData
 - uid: Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData
   name: TargetSystemData
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.html
   commentId: T:Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData
   fullName: Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData
   nameWithType: TargetSystemData
 - uid: Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.EncryptedResourceInstancePackets
   name: EncryptedResourceInstancePackets
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.html#Hsm_IotMessages_DeviceSystemMessages_CloudToDevice_TargetSystemData_EncryptedResourceInstancePackets
+  href: api/Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.html#Hsm_IotMessages_DeviceSystemMessages_CloudToDevice_TargetSystemData_EncryptedResourceInstancePackets
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.EncryptedResourceInstancePackets
   fullName: Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.EncryptedResourceInstancePackets
   nameWithType: TargetSystemData.EncryptedResourceInstancePackets
 - uid: Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.EncryptedResourceInstancePackets*
   name: EncryptedResourceInstancePackets
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.html#Hsm_IotMessages_DeviceSystemMessages_CloudToDevice_TargetSystemData_EncryptedResourceInstancePackets_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.html#Hsm_IotMessages_DeviceSystemMessages_CloudToDevice_TargetSystemData_EncryptedResourceInstancePackets_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.EncryptedResourceInstancePackets
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.EncryptedResourceInstancePackets
   nameWithType: TargetSystemData.EncryptedResourceInstancePackets
 - uid: Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.ResourceInstancePackets
   name: ResourceInstancePackets
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.html#Hsm_IotMessages_DeviceSystemMessages_CloudToDevice_TargetSystemData_ResourceInstancePackets
+  href: api/Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.html#Hsm_IotMessages_DeviceSystemMessages_CloudToDevice_TargetSystemData_ResourceInstancePackets
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.ResourceInstancePackets
   fullName: Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.ResourceInstancePackets
   nameWithType: TargetSystemData.ResourceInstancePackets
 - uid: Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.ResourceInstancePackets*
   name: ResourceInstancePackets
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.html#Hsm_IotMessages_DeviceSystemMessages_CloudToDevice_TargetSystemData_ResourceInstancePackets_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.html#Hsm_IotMessages_DeviceSystemMessages_CloudToDevice_TargetSystemData_ResourceInstancePackets_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.ResourceInstancePackets
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.CloudToDevice.TargetSystemData.ResourceInstancePackets
   nameWithType: TargetSystemData.ResourceInstancePackets
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceSystemMessage
   name: DeviceSystemMessage
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceSystemMessage.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceSystemMessage.html
   commentId: T:Hsm.IotMessages.DeviceSystemMessages.DeviceSystemMessage
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceSystemMessage
   nameWithType: DeviceSystemMessage
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud
   name: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.html
   commentId: N:Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud
   nameWithType: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage
   name: DeviceSystemToCloudMessage
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.html
   commentId: T:Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage
   nameWithType: DeviceSystemToCloudMessage
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.RelayingGateway
   name: RelayingGateway
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_DeviceSystemToCloudMessage_RelayingGateway
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_DeviceSystemToCloudMessage_RelayingGateway
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.RelayingGateway
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.RelayingGateway
   nameWithType: DeviceSystemToCloudMessage.RelayingGateway
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.RelayingGateway*
   name: RelayingGateway
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_DeviceSystemToCloudMessage_RelayingGateway_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_DeviceSystemToCloudMessage_RelayingGateway_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.RelayingGateway
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.RelayingGateway
   nameWithType: DeviceSystemToCloudMessage.RelayingGateway
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.SourceSystemData
   name: SourceSystemData
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_DeviceSystemToCloudMessage_SourceSystemData
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_DeviceSystemToCloudMessage_SourceSystemData
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.SourceSystemData
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.SourceSystemData
   nameWithType: DeviceSystemToCloudMessage.SourceSystemData
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.SourceSystemData*
   name: SourceSystemData
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_DeviceSystemToCloudMessage_SourceSystemData_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_DeviceSystemToCloudMessage_SourceSystemData_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.SourceSystemData
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage.SourceSystemData
   nameWithType: DeviceSystemToCloudMessage.SourceSystemData
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData
   name: ResourceInstanceData
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.html
   commentId: T:Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData
   nameWithType: ResourceInstanceData
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.ResourceInstanceIdentifier
   name: ResourceInstanceIdentifier
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_ResourceInstanceData_ResourceInstanceIdentifier
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_ResourceInstanceData_ResourceInstanceIdentifier
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.ResourceInstanceIdentifier
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.ResourceInstanceIdentifier
   nameWithType: ResourceInstanceData.ResourceInstanceIdentifier
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.ResourceInstanceIdentifier*
   name: ResourceInstanceIdentifier
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_ResourceInstanceData_ResourceInstanceIdentifier_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_ResourceInstanceData_ResourceInstanceIdentifier_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.ResourceInstanceIdentifier
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.ResourceInstanceIdentifier
   nameWithType: ResourceInstanceData.ResourceInstanceIdentifier
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.ResourceInstancePackets
   name: ResourceInstancePackets
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_ResourceInstanceData_ResourceInstancePackets
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_ResourceInstanceData_ResourceInstancePackets
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.ResourceInstancePackets
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.ResourceInstancePackets
   nameWithType: ResourceInstanceData.ResourceInstancePackets
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.ResourceInstancePackets*
   name: ResourceInstancePackets
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_ResourceInstanceData_ResourceInstancePackets_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_ResourceInstanceData_ResourceInstancePackets_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.ResourceInstancePackets
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData.ResourceInstancePackets
   nameWithType: ResourceInstanceData.ResourceInstancePackets
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData
   name: SourceSystemData
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.html
   commentId: T:Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData
   nameWithType: SourceSystemData
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.BaseTimestampUtc
   name: BaseTimestampUtc
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_SourceSystemData_BaseTimestampUtc
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_SourceSystemData_BaseTimestampUtc
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.BaseTimestampUtc
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.BaseTimestampUtc
   nameWithType: SourceSystemData.BaseTimestampUtc
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.BaseTimestampUtc*
   name: BaseTimestampUtc
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_SourceSystemData_BaseTimestampUtc_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_SourceSystemData_BaseTimestampUtc_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.BaseTimestampUtc
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.BaseTimestampUtc
   nameWithType: SourceSystemData.BaseTimestampUtc
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.EncryptedResourceInstanceData
   name: EncryptedResourceInstanceData
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_SourceSystemData_EncryptedResourceInstanceData
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_SourceSystemData_EncryptedResourceInstanceData
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.EncryptedResourceInstanceData
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.EncryptedResourceInstanceData
   nameWithType: SourceSystemData.EncryptedResourceInstanceData
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.EncryptedResourceInstanceData*
   name: EncryptedResourceInstanceData
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_SourceSystemData_EncryptedResourceInstanceData_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_SourceSystemData_EncryptedResourceInstanceData_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.EncryptedResourceInstanceData
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.EncryptedResourceInstanceData
   nameWithType: SourceSystemData.EncryptedResourceInstanceData
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.ResourceInstanceData
   name: ResourceInstanceData
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_SourceSystemData_ResourceInstanceData
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_SourceSystemData_ResourceInstanceData
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.ResourceInstanceData
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.ResourceInstanceData
   nameWithType: SourceSystemData.ResourceInstanceData
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.ResourceInstanceData*
   name: ResourceInstanceData
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_SourceSystemData_ResourceInstanceData_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_SourceSystemData_ResourceInstanceData_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.ResourceInstanceData
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.ResourceInstanceData
   nameWithType: SourceSystemData.ResourceInstanceData
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.SourceSystem
   name: SourceSystem
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_SourceSystemData_SourceSystem
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_SourceSystemData_SourceSystem
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.SourceSystem
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.SourceSystem
   nameWithType: SourceSystemData.SourceSystem
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.SourceSystem*
   name: SourceSystem
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_SourceSystemData_SourceSystem_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.html#Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_SourceSystemData_SourceSystem_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.SourceSystem
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData.SourceSystem
   nameWithType: SourceSystemData.SourceSystem
 - uid: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.StationaryGatewayInfo
   name: StationaryGatewayInfo
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.StationaryGatewayInfo.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.StationaryGatewayInfo.html
   commentId: T:Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.StationaryGatewayInfo
   fullName: Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.StationaryGatewayInfo
   nameWithType: StationaryGatewayInfo
 - uid: Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo
   name: EmbeddedSystemInfo
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.html
   commentId: T:Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo
   fullName: Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo
   nameWithType: EmbeddedSystemInfo
 - uid: Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.SoftwareType
   name: SoftwareType
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.html#Hsm_IotMessages_DeviceSystemMessages_EmbeddedSystemInfo_SoftwareType
+  href: api/Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.html#Hsm_IotMessages_DeviceSystemMessages_EmbeddedSystemInfo_SoftwareType
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.SoftwareType
   fullName: Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.SoftwareType
   nameWithType: EmbeddedSystemInfo.SoftwareType
 - uid: Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.SoftwareType*
   name: SoftwareType
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.html#Hsm_IotMessages_DeviceSystemMessages_EmbeddedSystemInfo_SoftwareType_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.html#Hsm_IotMessages_DeviceSystemMessages_EmbeddedSystemInfo_SoftwareType_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.SoftwareType
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.SoftwareType
   nameWithType: EmbeddedSystemInfo.SoftwareType
 - uid: Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.SoftwareVersion
   name: SoftwareVersion
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.html#Hsm_IotMessages_DeviceSystemMessages_EmbeddedSystemInfo_SoftwareVersion
+  href: api/Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.html#Hsm_IotMessages_DeviceSystemMessages_EmbeddedSystemInfo_SoftwareVersion
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.SoftwareVersion
   fullName: Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.SoftwareVersion
   nameWithType: EmbeddedSystemInfo.SoftwareVersion
 - uid: Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.SoftwareVersion*
   name: SoftwareVersion
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.html#Hsm_IotMessages_DeviceSystemMessages_EmbeddedSystemInfo_SoftwareVersion_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.html#Hsm_IotMessages_DeviceSystemMessages_EmbeddedSystemInfo_SoftwareVersion_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.SoftwareVersion
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.SoftwareVersion
   nameWithType: EmbeddedSystemInfo.SoftwareVersion
 - uid: Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.SystemId
   name: SystemId
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.html#Hsm_IotMessages_DeviceSystemMessages_EmbeddedSystemInfo_SystemId
+  href: api/Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.html#Hsm_IotMessages_DeviceSystemMessages_EmbeddedSystemInfo_SystemId
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.SystemId
   fullName: Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.SystemId
   nameWithType: EmbeddedSystemInfo.SystemId
 - uid: Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.SystemId*
   name: SystemId
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.html#Hsm_IotMessages_DeviceSystemMessages_EmbeddedSystemInfo_SystemId_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.html#Hsm_IotMessages_DeviceSystemMessages_EmbeddedSystemInfo_SystemId_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.SystemId
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.SystemId
   nameWithType: EmbeddedSystemInfo.SystemId
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier
   name: ResourceInstanceIdentifier
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html
   commentId: T:Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier
   nameWithType: ResourceInstanceIdentifier
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.#ctor(System.Int16,System.Int16)
   name: ResourceInstanceIdentifier(Int16, Int16)
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier__ctor_System_Int16_System_Int16_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier__ctor_System_Int16_System_Int16_
   commentId: M:Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.#ctor(System.Int16,System.Int16)
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.ResourceInstanceIdentifier(System.Int16, System.Int16)
   nameWithType: ResourceInstanceIdentifier.ResourceInstanceIdentifier(Int16, Int16)
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.#ctor*
   name: ResourceInstanceIdentifier
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier__ctor_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier__ctor_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.#ctor
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.ResourceInstanceIdentifier
   nameWithType: ResourceInstanceIdentifier.ResourceInstanceIdentifier
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.Equals(Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier)
   name: Equals(ResourceInstanceIdentifier)
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_Equals_Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_Equals_Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_
   commentId: M:Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.Equals(Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier)
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.Equals(Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier)
   nameWithType: ResourceInstanceIdentifier.Equals(ResourceInstanceIdentifier)
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.Equals(System.Object)
   name: Equals(Object)
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_Equals_System_Object_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_Equals_System_Object_
   commentId: M:Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.Equals(System.Object)
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.Equals(System.Object)
   nameWithType: ResourceInstanceIdentifier.Equals(Object)
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.Equals*
   name: Equals
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_Equals_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_Equals_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.Equals
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.Equals
   nameWithType: ResourceInstanceIdentifier.Equals
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.GetHashCode
   name: GetHashCode()
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_GetHashCode
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_GetHashCode
   commentId: M:Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.GetHashCode
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.GetHashCode()
   nameWithType: ResourceInstanceIdentifier.GetHashCode()
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.GetHashCode*
   name: GetHashCode
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_GetHashCode_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_GetHashCode_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.GetHashCode
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.GetHashCode
   nameWithType: ResourceInstanceIdentifier.GetHashCode
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.InstanceId
   name: InstanceId
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_InstanceId
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_InstanceId
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.InstanceId
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.InstanceId
   nameWithType: ResourceInstanceIdentifier.InstanceId
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.InstanceId*
   name: InstanceId
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_InstanceId_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_InstanceId_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.InstanceId
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.InstanceId
   nameWithType: ResourceInstanceIdentifier.InstanceId
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.op_Equality(Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier,Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier)
   name: Equality(ResourceInstanceIdentifier, ResourceInstanceIdentifier)
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_op_Equality_Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_op_Equality_Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_
   commentId: M:Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.op_Equality(Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier,Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier)
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.Equality(Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier, Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier)
   nameWithType: ResourceInstanceIdentifier.Equality(ResourceInstanceIdentifier, ResourceInstanceIdentifier)
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.op_Equality*
   name: Equality
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_op_Equality_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_op_Equality_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.op_Equality
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.Equality
   nameWithType: ResourceInstanceIdentifier.Equality
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.op_Inequality(Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier,Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier)
   name: Inequality(ResourceInstanceIdentifier, ResourceInstanceIdentifier)
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_op_Inequality_Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_op_Inequality_Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_
   commentId: M:Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.op_Inequality(Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier,Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier)
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.Inequality(Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier, Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier)
   nameWithType: ResourceInstanceIdentifier.Inequality(ResourceInstanceIdentifier, ResourceInstanceIdentifier)
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.op_Inequality*
   name: Inequality
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_op_Inequality_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_op_Inequality_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.op_Inequality
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.Inequality
   nameWithType: ResourceInstanceIdentifier.Inequality
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.TypeId
   name: TypeId
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_TypeId
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_TypeId
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.TypeId
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.TypeId
   nameWithType: ResourceInstanceIdentifier.TypeId
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.TypeId*
   name: TypeId
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_TypeId_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_TypeId_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.TypeId
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.TypeId
   nameWithType: ResourceInstanceIdentifier.TypeId
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets
   name: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.html
   commentId: N:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets
   nameWithType: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.DownlinkResourceInstancePacket
   name: DownlinkResourceInstancePacket
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.DownlinkResourceInstancePacket.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.DownlinkResourceInstancePacket.html
   commentId: T:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.DownlinkResourceInstancePacket
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.DownlinkResourceInstancePacket
   nameWithType: DownlinkResourceInstancePacket
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ReadRequest
   name: ReadRequest
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ReadRequest.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ReadRequest.html
   commentId: T:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ReadRequest
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ReadRequest
   nameWithType: ReadRequest
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ReadRequest.RequestedResourceInstance
   name: RequestedResourceInstance
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ReadRequest.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_ReadRequest_RequestedResourceInstance
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ReadRequest.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_ReadRequest_RequestedResourceInstance
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ReadRequest.RequestedResourceInstance
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ReadRequest.RequestedResourceInstance
   nameWithType: ReadRequest.RequestedResourceInstance
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ReadRequest.RequestedResourceInstance*
   name: RequestedResourceInstance
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ReadRequest.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_ReadRequest_RequestedResourceInstance_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ReadRequest.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_ReadRequest_RequestedResourceInstance_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ReadRequest.RequestedResourceInstance
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ReadRequest.RequestedResourceInstance
   nameWithType: ReadRequest.RequestedResourceInstance
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ReadResponse
   name: ReadResponse
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ReadResponse.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ReadResponse.html
   commentId: T:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ReadResponse
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ReadResponse
   nameWithType: ReadResponse
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase
   name: ResourceInstancePacketBase
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.html
   commentId: T:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase
   nameWithType: ResourceInstancePacketBase
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.CommunicationId
   name: CommunicationId
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_ResourceInstancePacketBase_CommunicationId
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_ResourceInstancePacketBase_CommunicationId
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.CommunicationId
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.CommunicationId
   nameWithType: ResourceInstancePacketBase.CommunicationId
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.CommunicationId*
   name: CommunicationId
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_ResourceInstancePacketBase_CommunicationId_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_ResourceInstancePacketBase_CommunicationId_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.CommunicationId
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.CommunicationId
   nameWithType: ResourceInstancePacketBase.CommunicationId
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.Encrypt(System.String)
   name: Encrypt(String)
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_ResourceInstancePacketBase_Encrypt_System_String_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_ResourceInstancePacketBase_Encrypt_System_String_
   commentId: M:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.Encrypt(System.String)
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.Encrypt(System.String)
   nameWithType: ResourceInstancePacketBase.Encrypt(String)
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.Encrypt*
   name: Encrypt
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_ResourceInstancePacketBase_Encrypt_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_ResourceInstancePacketBase_Encrypt_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.Encrypt
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.Encrypt
   nameWithType: ResourceInstancePacketBase.Encrypt
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.TimestampUtc
   name: TimestampUtc
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_ResourceInstancePacketBase_TimestampUtc
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_ResourceInstancePacketBase_TimestampUtc
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.TimestampUtc
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.TimestampUtc
   nameWithType: ResourceInstancePacketBase.TimestampUtc
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.TimestampUtc*
   name: TimestampUtc
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_ResourceInstancePacketBase_TimestampUtc_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_ResourceInstancePacketBase_TimestampUtc_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.TimestampUtc
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase.TimestampUtc
   nameWithType: ResourceInstancePacketBase.TimestampUtc
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.UplinkError
   name: UplinkError
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.UplinkError.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.UplinkError.html
   commentId: T:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.UplinkError
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.UplinkError
   nameWithType: UplinkError
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.UplinkError.ErrorCode
   name: ErrorCode
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.UplinkError.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_UplinkError_ErrorCode
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.UplinkError.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_UplinkError_ErrorCode
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.UplinkError.ErrorCode
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.UplinkError.ErrorCode
   nameWithType: UplinkError.ErrorCode
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.UplinkError.ErrorCode*
   name: ErrorCode
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.UplinkError.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_UplinkError_ErrorCode_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.UplinkError.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_UplinkError_ErrorCode_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.UplinkError.ErrorCode
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.UplinkError.ErrorCode
   nameWithType: UplinkError.ErrorCode
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.UplinkResourceInstancePacket
   name: UplinkResourceInstancePacket
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.UplinkResourceInstancePacket.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.UplinkResourceInstancePacket.html
   commentId: T:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.UplinkResourceInstancePacket
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.UplinkResourceInstancePacket
   nameWithType: UplinkResourceInstancePacket
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.Value
   name: Value
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.Value.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.Value.html
   commentId: T:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.Value
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.Value
   nameWithType: Value
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.Value.UntypedValue
   name: UntypedValue
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.Value.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_Value_UntypedValue
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.Value.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_Value_UntypedValue
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.Value.UntypedValue
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.Value.UntypedValue
   nameWithType: Value.UntypedValue
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.Value.UntypedValue*
   name: UntypedValue
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.Value.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_Value_UntypedValue_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.Value.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_Value_UntypedValue_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.Value.UntypedValue
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.Value.UntypedValue
   nameWithType: Value.UntypedValue
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ValueIndication
   name: ValueIndication
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ValueIndication.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ValueIndication.html
   commentId: T:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ValueIndication
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ValueIndication
   nameWithType: ValueIndication
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ValueIndication.RequestAcknowledgment
   name: RequestAcknowledgment
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ValueIndication.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_ValueIndication_RequestAcknowledgment
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ValueIndication.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_ValueIndication_RequestAcknowledgment
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ValueIndication.RequestAcknowledgment
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ValueIndication.RequestAcknowledgment
   nameWithType: ValueIndication.RequestAcknowledgment
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ValueIndication.RequestAcknowledgment*
   name: RequestAcknowledgment
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ValueIndication.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_ValueIndication_RequestAcknowledgment_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ValueIndication.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_ValueIndication_RequestAcknowledgment_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ValueIndication.RequestAcknowledgment
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ValueIndication.RequestAcknowledgment
   nameWithType: ValueIndication.RequestAcknowledgment
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteAcknowledgement
   name: WriteAcknowledgement
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteAcknowledgement.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteAcknowledgement.html
   commentId: T:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteAcknowledgement
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteAcknowledgement
   nameWithType: WriteAcknowledgement
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest
   name: WriteRequest
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.html
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.html
   commentId: T:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest
   nameWithType: WriteRequest
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.DataType
   name: DataType
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_WriteRequest_DataType
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_WriteRequest_DataType
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.DataType
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.DataType
   nameWithType: WriteRequest.DataType
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.DataType*
   name: DataType
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_WriteRequest_DataType_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_WriteRequest_DataType_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.DataType
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.DataType
   nameWithType: WriteRequest.DataType
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.UntypedValue
   name: UntypedValue
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_WriteRequest_UntypedValue
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_WriteRequest_UntypedValue
   commentId: P:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.UntypedValue
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.UntypedValue
   nameWithType: WriteRequest.UntypedValue
 - uid: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.UntypedValue*
   name: UntypedValue
-  href: api/SDK/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_WriteRequest_UntypedValue_
+  href: api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.html#Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_WriteRequest_UntypedValue_
   commentId: Overload:Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.UntypedValue
   isSpec: "True"
   fullName: Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.WriteRequest.UntypedValue
   nameWithType: WriteRequest.UntypedValue
 - uid: Hsm.IotMessages.Envelopes
   name: Hsm.IotMessages.Envelopes
-  href: api/SDK/Hsm.IotMessages.Envelopes.html
+  href: api/Hsm.IotMessages.Envelopes.html
   commentId: N:Hsm.IotMessages.Envelopes
   fullName: Hsm.IotMessages.Envelopes
   nameWithType: Hsm.IotMessages.Envelopes
 - uid: Hsm.IotMessages.Envelopes.ProcessingResult
   name: ProcessingResult
-  href: api/SDK/Hsm.IotMessages.Envelopes.ProcessingResult.html
+  href: api/Hsm.IotMessages.Envelopes.ProcessingResult.html
   commentId: T:Hsm.IotMessages.Envelopes.ProcessingResult
   fullName: Hsm.IotMessages.Envelopes.ProcessingResult
   nameWithType: ProcessingResult
 - uid: Hsm.IotMessages.Envelopes.ProcessingResult.Message
   name: Message
-  href: api/SDK/Hsm.IotMessages.Envelopes.ProcessingResult.html#Hsm_IotMessages_Envelopes_ProcessingResult_Message
+  href: api/Hsm.IotMessages.Envelopes.ProcessingResult.html#Hsm_IotMessages_Envelopes_ProcessingResult_Message
   commentId: P:Hsm.IotMessages.Envelopes.ProcessingResult.Message
   fullName: Hsm.IotMessages.Envelopes.ProcessingResult.Message
   nameWithType: ProcessingResult.Message
 - uid: Hsm.IotMessages.Envelopes.ProcessingResult.Message*
   name: Message
-  href: api/SDK/Hsm.IotMessages.Envelopes.ProcessingResult.html#Hsm_IotMessages_Envelopes_ProcessingResult_Message_
+  href: api/Hsm.IotMessages.Envelopes.ProcessingResult.html#Hsm_IotMessages_Envelopes_ProcessingResult_Message_
   commentId: Overload:Hsm.IotMessages.Envelopes.ProcessingResult.Message
   isSpec: "True"
   fullName: Hsm.IotMessages.Envelopes.ProcessingResult.Message
   nameWithType: ProcessingResult.Message
 - uid: Hsm.IotMessages.Envelopes.ProcessingResult.Processor
   name: Processor
-  href: api/SDK/Hsm.IotMessages.Envelopes.ProcessingResult.html#Hsm_IotMessages_Envelopes_ProcessingResult_Processor
+  href: api/Hsm.IotMessages.Envelopes.ProcessingResult.html#Hsm_IotMessages_Envelopes_ProcessingResult_Processor
   commentId: P:Hsm.IotMessages.Envelopes.ProcessingResult.Processor
   fullName: Hsm.IotMessages.Envelopes.ProcessingResult.Processor
   nameWithType: ProcessingResult.Processor
 - uid: Hsm.IotMessages.Envelopes.ProcessingResult.Processor*
   name: Processor
-  href: api/SDK/Hsm.IotMessages.Envelopes.ProcessingResult.html#Hsm_IotMessages_Envelopes_ProcessingResult_Processor_
+  href: api/Hsm.IotMessages.Envelopes.ProcessingResult.html#Hsm_IotMessages_Envelopes_ProcessingResult_Processor_
   commentId: Overload:Hsm.IotMessages.Envelopes.ProcessingResult.Processor
   isSpec: "True"
   fullName: Hsm.IotMessages.Envelopes.ProcessingResult.Processor
   nameWithType: ProcessingResult.Processor
 - uid: Hsm.IotMessages.Envelopes.ProcessingResult.ResultType
   name: ResultType
-  href: api/SDK/Hsm.IotMessages.Envelopes.ProcessingResult.html#Hsm_IotMessages_Envelopes_ProcessingResult_ResultType
+  href: api/Hsm.IotMessages.Envelopes.ProcessingResult.html#Hsm_IotMessages_Envelopes_ProcessingResult_ResultType
   commentId: P:Hsm.IotMessages.Envelopes.ProcessingResult.ResultType
   fullName: Hsm.IotMessages.Envelopes.ProcessingResult.ResultType
   nameWithType: ProcessingResult.ResultType
 - uid: Hsm.IotMessages.Envelopes.ProcessingResult.ResultType*
   name: ResultType
-  href: api/SDK/Hsm.IotMessages.Envelopes.ProcessingResult.html#Hsm_IotMessages_Envelopes_ProcessingResult_ResultType_
+  href: api/Hsm.IotMessages.Envelopes.ProcessingResult.html#Hsm_IotMessages_Envelopes_ProcessingResult_ResultType_
   commentId: Overload:Hsm.IotMessages.Envelopes.ProcessingResult.ResultType
   isSpec: "True"
   fullName: Hsm.IotMessages.Envelopes.ProcessingResult.ResultType
   nameWithType: ProcessingResult.ResultType
 - uid: Hsm.IotMessages.Envelopes.ProcessingWrapper
   name: ProcessingWrapper
-  href: api/SDK/Hsm.IotMessages.Envelopes.ProcessingWrapper.html
+  href: api/Hsm.IotMessages.Envelopes.ProcessingWrapper.html
   commentId: T:Hsm.IotMessages.Envelopes.ProcessingWrapper
   fullName: Hsm.IotMessages.Envelopes.ProcessingWrapper
   nameWithType: ProcessingWrapper
 - uid: Hsm.IotMessages.Envelopes.ProcessingWrapper.Content
   name: Content
-  href: api/SDK/Hsm.IotMessages.Envelopes.ProcessingWrapper.html#Hsm_IotMessages_Envelopes_ProcessingWrapper_Content
+  href: api/Hsm.IotMessages.Envelopes.ProcessingWrapper.html#Hsm_IotMessages_Envelopes_ProcessingWrapper_Content
   commentId: P:Hsm.IotMessages.Envelopes.ProcessingWrapper.Content
   fullName: Hsm.IotMessages.Envelopes.ProcessingWrapper.Content
   nameWithType: ProcessingWrapper.Content
 - uid: Hsm.IotMessages.Envelopes.ProcessingWrapper.Content*
   name: Content
-  href: api/SDK/Hsm.IotMessages.Envelopes.ProcessingWrapper.html#Hsm_IotMessages_Envelopes_ProcessingWrapper_Content_
+  href: api/Hsm.IotMessages.Envelopes.ProcessingWrapper.html#Hsm_IotMessages_Envelopes_ProcessingWrapper_Content_
   commentId: Overload:Hsm.IotMessages.Envelopes.ProcessingWrapper.Content
   isSpec: "True"
   fullName: Hsm.IotMessages.Envelopes.ProcessingWrapper.Content
   nameWithType: ProcessingWrapper.Content
 - uid: Hsm.IotMessages.Envelopes.ProcessingWrapperBase
   name: ProcessingWrapperBase
-  href: api/SDK/Hsm.IotMessages.Envelopes.ProcessingWrapperBase.html
+  href: api/Hsm.IotMessages.Envelopes.ProcessingWrapperBase.html
   commentId: T:Hsm.IotMessages.Envelopes.ProcessingWrapperBase
   fullName: Hsm.IotMessages.Envelopes.ProcessingWrapperBase
   nameWithType: ProcessingWrapperBase
 - uid: Hsm.IotMessages.Envelopes.ProcessingWrapperBase.ProcessingResult
   name: ProcessingResult
-  href: api/SDK/Hsm.IotMessages.Envelopes.ProcessingWrapperBase.html#Hsm_IotMessages_Envelopes_ProcessingWrapperBase_ProcessingResult
+  href: api/Hsm.IotMessages.Envelopes.ProcessingWrapperBase.html#Hsm_IotMessages_Envelopes_ProcessingWrapperBase_ProcessingResult
   commentId: P:Hsm.IotMessages.Envelopes.ProcessingWrapperBase.ProcessingResult
   fullName: Hsm.IotMessages.Envelopes.ProcessingWrapperBase.ProcessingResult
   nameWithType: ProcessingWrapperBase.ProcessingResult
 - uid: Hsm.IotMessages.Envelopes.ProcessingWrapperBase.ProcessingResult*
   name: ProcessingResult
-  href: api/SDK/Hsm.IotMessages.Envelopes.ProcessingWrapperBase.html#Hsm_IotMessages_Envelopes_ProcessingWrapperBase_ProcessingResult_
+  href: api/Hsm.IotMessages.Envelopes.ProcessingWrapperBase.html#Hsm_IotMessages_Envelopes_ProcessingWrapperBase_ProcessingResult_
   commentId: Overload:Hsm.IotMessages.Envelopes.ProcessingWrapperBase.ProcessingResult
   isSpec: "True"
   fullName: Hsm.IotMessages.Envelopes.ProcessingWrapperBase.ProcessingResult
   nameWithType: ProcessingWrapperBase.ProcessingResult
 - uid: Hsm.IotMessages.Envelopes.ProcessingWrapperBase.ProcessingTime
   name: ProcessingTime
-  href: api/SDK/Hsm.IotMessages.Envelopes.ProcessingWrapperBase.html#Hsm_IotMessages_Envelopes_ProcessingWrapperBase_ProcessingTime
+  href: api/Hsm.IotMessages.Envelopes.ProcessingWrapperBase.html#Hsm_IotMessages_Envelopes_ProcessingWrapperBase_ProcessingTime
   commentId: P:Hsm.IotMessages.Envelopes.ProcessingWrapperBase.ProcessingTime
   fullName: Hsm.IotMessages.Envelopes.ProcessingWrapperBase.ProcessingTime
   nameWithType: ProcessingWrapperBase.ProcessingTime
 - uid: Hsm.IotMessages.Envelopes.ProcessingWrapperBase.ProcessingTime*
   name: ProcessingTime
-  href: api/SDK/Hsm.IotMessages.Envelopes.ProcessingWrapperBase.html#Hsm_IotMessages_Envelopes_ProcessingWrapperBase_ProcessingTime_
+  href: api/Hsm.IotMessages.Envelopes.ProcessingWrapperBase.html#Hsm_IotMessages_Envelopes_ProcessingWrapperBase_ProcessingTime_
   commentId: Overload:Hsm.IotMessages.Envelopes.ProcessingWrapperBase.ProcessingTime
   isSpec: "True"
   fullName: Hsm.IotMessages.Envelopes.ProcessingWrapperBase.ProcessingTime
   nameWithType: ProcessingWrapperBase.ProcessingTime
 - uid: Hsm.IotMessages.Envelopes.Sender
   name: Sender
-  href: api/SDK/Hsm.IotMessages.Envelopes.Sender.html
+  href: api/Hsm.IotMessages.Envelopes.Sender.html
   commentId: T:Hsm.IotMessages.Envelopes.Sender
   fullName: Hsm.IotMessages.Envelopes.Sender
   nameWithType: Sender
 - uid: Hsm.IotMessages.Envelopes.Sender.Id
   name: Id
-  href: api/SDK/Hsm.IotMessages.Envelopes.Sender.html#Hsm_IotMessages_Envelopes_Sender_Id
+  href: api/Hsm.IotMessages.Envelopes.Sender.html#Hsm_IotMessages_Envelopes_Sender_Id
   commentId: P:Hsm.IotMessages.Envelopes.Sender.Id
   fullName: Hsm.IotMessages.Envelopes.Sender.Id
   nameWithType: Sender.Id
 - uid: Hsm.IotMessages.Envelopes.Sender.Id*
   name: Id
-  href: api/SDK/Hsm.IotMessages.Envelopes.Sender.html#Hsm_IotMessages_Envelopes_Sender_Id_
+  href: api/Hsm.IotMessages.Envelopes.Sender.html#Hsm_IotMessages_Envelopes_Sender_Id_
   commentId: Overload:Hsm.IotMessages.Envelopes.Sender.Id
   isSpec: "True"
   fullName: Hsm.IotMessages.Envelopes.Sender.Id
   nameWithType: Sender.Id
 - uid: Hsm.IotMessages.Envelopes.Sender.Type
   name: Type
-  href: api/SDK/Hsm.IotMessages.Envelopes.Sender.html#Hsm_IotMessages_Envelopes_Sender_Type
+  href: api/Hsm.IotMessages.Envelopes.Sender.html#Hsm_IotMessages_Envelopes_Sender_Type
   commentId: P:Hsm.IotMessages.Envelopes.Sender.Type
   fullName: Hsm.IotMessages.Envelopes.Sender.Type
   nameWithType: Sender.Type
 - uid: Hsm.IotMessages.Envelopes.Sender.Type*
   name: Type
-  href: api/SDK/Hsm.IotMessages.Envelopes.Sender.html#Hsm_IotMessages_Envelopes_Sender_Type_
+  href: api/Hsm.IotMessages.Envelopes.Sender.html#Hsm_IotMessages_Envelopes_Sender_Type_
   commentId: Overload:Hsm.IotMessages.Envelopes.Sender.Type
   isSpec: "True"
   fullName: Hsm.IotMessages.Envelopes.Sender.Type
   nameWithType: Sender.Type
 - uid: Hsm.IotMessages.Envelopes.Sender.Version
   name: Version
-  href: api/SDK/Hsm.IotMessages.Envelopes.Sender.html#Hsm_IotMessages_Envelopes_Sender_Version
+  href: api/Hsm.IotMessages.Envelopes.Sender.html#Hsm_IotMessages_Envelopes_Sender_Version
   commentId: P:Hsm.IotMessages.Envelopes.Sender.Version
   fullName: Hsm.IotMessages.Envelopes.Sender.Version
   nameWithType: Sender.Version
 - uid: Hsm.IotMessages.Envelopes.Sender.Version*
   name: Version
-  href: api/SDK/Hsm.IotMessages.Envelopes.Sender.html#Hsm_IotMessages_Envelopes_Sender_Version_
+  href: api/Hsm.IotMessages.Envelopes.Sender.html#Hsm_IotMessages_Envelopes_Sender_Version_
   commentId: Overload:Hsm.IotMessages.Envelopes.Sender.Version
   isSpec: "True"
   fullName: Hsm.IotMessages.Envelopes.Sender.Version
   nameWithType: Sender.Version
 - uid: Hsm.IotMessages.HsmIotMessage
   name: HsmIotMessage
-  href: api/SDK/Hsm.IotMessages.HsmIotMessage.html
+  href: api/Hsm.IotMessages.HsmIotMessage.html
   commentId: T:Hsm.IotMessages.HsmIotMessage
   fullName: Hsm.IotMessages.HsmIotMessage
   nameWithType: HsmIotMessage
 - uid: Hsm.IotMessages.HsmIotMessage.MessageDateUtc
   name: MessageDateUtc
-  href: api/SDK/Hsm.IotMessages.HsmIotMessage.html#Hsm_IotMessages_HsmIotMessage_MessageDateUtc
+  href: api/Hsm.IotMessages.HsmIotMessage.html#Hsm_IotMessages_HsmIotMessage_MessageDateUtc
   commentId: P:Hsm.IotMessages.HsmIotMessage.MessageDateUtc
   fullName: Hsm.IotMessages.HsmIotMessage.MessageDateUtc
   nameWithType: HsmIotMessage.MessageDateUtc
 - uid: Hsm.IotMessages.HsmIotMessage.MessageDateUtc*
   name: MessageDateUtc
-  href: api/SDK/Hsm.IotMessages.HsmIotMessage.html#Hsm_IotMessages_HsmIotMessage_MessageDateUtc_
+  href: api/Hsm.IotMessages.HsmIotMessage.html#Hsm_IotMessages_HsmIotMessage_MessageDateUtc_
   commentId: Overload:Hsm.IotMessages.HsmIotMessage.MessageDateUtc
   isSpec: "True"
   fullName: Hsm.IotMessages.HsmIotMessage.MessageDateUtc
   nameWithType: HsmIotMessage.MessageDateUtc
 - uid: Hsm.IotMessages.HsmIotMessage.MessageId
   name: MessageId
-  href: api/SDK/Hsm.IotMessages.HsmIotMessage.html#Hsm_IotMessages_HsmIotMessage_MessageId
+  href: api/Hsm.IotMessages.HsmIotMessage.html#Hsm_IotMessages_HsmIotMessage_MessageId
   commentId: P:Hsm.IotMessages.HsmIotMessage.MessageId
   fullName: Hsm.IotMessages.HsmIotMessage.MessageId
   nameWithType: HsmIotMessage.MessageId
 - uid: Hsm.IotMessages.HsmIotMessage.MessageId*
   name: MessageId
-  href: api/SDK/Hsm.IotMessages.HsmIotMessage.html#Hsm_IotMessages_HsmIotMessage_MessageId_
+  href: api/Hsm.IotMessages.HsmIotMessage.html#Hsm_IotMessages_HsmIotMessage_MessageId_
   commentId: Overload:Hsm.IotMessages.HsmIotMessage.MessageId
   isSpec: "True"
   fullName: Hsm.IotMessages.HsmIotMessage.MessageId
   nameWithType: HsmIotMessage.MessageId
-- uid: Hsm.IotMessages.Serialization
-  name: Hsm.IotMessages.Serialization
-  href: api/Serialization/Hsm.IotMessages.Serialization.html
-  commentId: N:Hsm.IotMessages.Serialization
-  fullName: Hsm.IotMessages.Serialization
-  nameWithType: Hsm.IotMessages.Serialization
-- uid: Hsm.IotMessages.Serialization.DefaultJsonSerializationFactory
-  name: DefaultJsonSerializationFactory
-  href: api/Serialization/Hsm.IotMessages.Serialization.DefaultJsonSerializationFactory.html
-  commentId: T:Hsm.IotMessages.Serialization.DefaultJsonSerializationFactory
-  fullName: Hsm.IotMessages.Serialization.DefaultJsonSerializationFactory
-  nameWithType: DefaultJsonSerializationFactory
-- uid: Hsm.IotMessages.Serialization.DeviceMessage
-  name: Hsm.IotMessages.Serialization.DeviceMessage
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.html
-  commentId: N:Hsm.IotMessages.Serialization.DeviceMessage
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage
-  nameWithType: Hsm.IotMessages.Serialization.DeviceMessage
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.HsmIotMessageDeclaration
-  name: HsmIotMessageDeclaration
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.HsmIotMessageDeclaration.html
-  commentId: T:Hsm.IotMessages.Serialization.DeviceMessage.HsmIotMessageDeclaration
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.HsmIotMessageDeclaration
-  nameWithType: HsmIotMessageDeclaration
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.HsmIotMessageDeclaration.MessageType
-  name: MessageType
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.HsmIotMessageDeclaration.html#Hsm_IotMessages_Serialization_DeviceMessage_HsmIotMessageDeclaration_MessageType
-  commentId: P:Hsm.IotMessages.Serialization.DeviceMessage.HsmIotMessageDeclaration.MessageType
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.HsmIotMessageDeclaration.MessageType
-  nameWithType: HsmIotMessageDeclaration.MessageType
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.HsmIotMessageDeclaration.MessageType*
-  name: MessageType
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.HsmIotMessageDeclaration.html#Hsm_IotMessages_Serialization_DeviceMessage_HsmIotMessageDeclaration_MessageType_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.HsmIotMessageDeclaration.MessageType
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.HsmIotMessageDeclaration.MessageType
-  nameWithType: HsmIotMessageDeclaration.MessageType
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.HsmIotMessageDeclaration.MessageTypeVersion
-  name: MessageTypeVersion
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.HsmIotMessageDeclaration.html#Hsm_IotMessages_Serialization_DeviceMessage_HsmIotMessageDeclaration_MessageTypeVersion
-  commentId: P:Hsm.IotMessages.Serialization.DeviceMessage.HsmIotMessageDeclaration.MessageTypeVersion
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.HsmIotMessageDeclaration.MessageTypeVersion
-  nameWithType: HsmIotMessageDeclaration.MessageTypeVersion
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.HsmIotMessageDeclaration.MessageTypeVersion*
-  name: MessageTypeVersion
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.HsmIotMessageDeclaration.html#Hsm_IotMessages_Serialization_DeviceMessage_HsmIotMessageDeclaration_MessageTypeVersion_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.HsmIotMessageDeclaration.MessageTypeVersion
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.HsmIotMessageDeclaration.MessageTypeVersion
-  nameWithType: HsmIotMessageDeclaration.MessageTypeVersion
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.PacketType
-  name: PacketType
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.PacketType.html
-  commentId: T:Hsm.IotMessages.Serialization.DeviceMessage.PacketType
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.PacketType
-  nameWithType: PacketType
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.PacketType.Error
-  name: Error
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.PacketType.html#Hsm_IotMessages_Serialization_DeviceMessage_PacketType_Error
-  commentId: F:Hsm.IotMessages.Serialization.DeviceMessage.PacketType.Error
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.PacketType.Error
-  nameWithType: PacketType.Error
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.PacketType.ReadRequest
-  name: ReadRequest
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.PacketType.html#Hsm_IotMessages_Serialization_DeviceMessage_PacketType_ReadRequest
-  commentId: F:Hsm.IotMessages.Serialization.DeviceMessage.PacketType.ReadRequest
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.PacketType.ReadRequest
-  nameWithType: PacketType.ReadRequest
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.PacketType.ReadResponse
-  name: ReadResponse
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.PacketType.html#Hsm_IotMessages_Serialization_DeviceMessage_PacketType_ReadResponse
-  commentId: F:Hsm.IotMessages.Serialization.DeviceMessage.PacketType.ReadResponse
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.PacketType.ReadResponse
-  nameWithType: PacketType.ReadResponse
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.PacketType.Receipt
-  name: Receipt
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.PacketType.html#Hsm_IotMessages_Serialization_DeviceMessage_PacketType_Receipt
-  commentId: F:Hsm.IotMessages.Serialization.DeviceMessage.PacketType.Receipt
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.PacketType.Receipt
-  nameWithType: PacketType.Receipt
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.PacketType.ValueIndication
-  name: ValueIndication
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.PacketType.html#Hsm_IotMessages_Serialization_DeviceMessage_PacketType_ValueIndication
-  commentId: F:Hsm.IotMessages.Serialization.DeviceMessage.PacketType.ValueIndication
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.PacketType.ValueIndication
-  nameWithType: PacketType.ValueIndication
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.PacketType.WriteAcknowledgement
-  name: WriteAcknowledgement
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.PacketType.html#Hsm_IotMessages_Serialization_DeviceMessage_PacketType_WriteAcknowledgement
-  commentId: F:Hsm.IotMessages.Serialization.DeviceMessage.PacketType.WriteAcknowledgement
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.PacketType.WriteAcknowledgement
-  nameWithType: PacketType.WriteAcknowledgement
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.PacketType.WriteRequest
-  name: WriteRequest
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.PacketType.html#Hsm_IotMessages_Serialization_DeviceMessage_PacketType_WriteRequest
-  commentId: F:Hsm.IotMessages.Serialization.DeviceMessage.PacketType.WriteRequest
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.PacketType.WriteRequest
-  nameWithType: PacketType.WriteRequest
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem
-  name: SerializationDeviceSystem
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.html
-  commentId: T:Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem
-  nameWithType: SerializationDeviceSystem
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.BaseTimestampUtc
-  name: BaseTimestampUtc
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationDeviceSystem_BaseTimestampUtc
-  commentId: P:Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.BaseTimestampUtc
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.BaseTimestampUtc
-  nameWithType: SerializationDeviceSystem.BaseTimestampUtc
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.BaseTimestampUtc*
-  name: BaseTimestampUtc
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationDeviceSystem_BaseTimestampUtc_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.BaseTimestampUtc
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.BaseTimestampUtc
-  nameWithType: SerializationDeviceSystem.BaseTimestampUtc
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.CreateFrom(Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData)
-  name: CreateFrom(SourceSystemData)
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationDeviceSystem_CreateFrom_Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_SourceSystemData_
-  commentId: M:Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.CreateFrom(Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData)
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.CreateFrom(Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.SourceSystemData)
-  nameWithType: SerializationDeviceSystem.CreateFrom(SourceSystemData)
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.CreateFrom*
-  name: CreateFrom
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationDeviceSystem_CreateFrom_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.CreateFrom
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.CreateFrom
-  nameWithType: SerializationDeviceSystem.CreateFrom
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.EncryptedResourceInstanceData
-  name: EncryptedResourceInstanceData
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationDeviceSystem_EncryptedResourceInstanceData
-  commentId: P:Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.EncryptedResourceInstanceData
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.EncryptedResourceInstanceData
-  nameWithType: SerializationDeviceSystem.EncryptedResourceInstanceData
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.EncryptedResourceInstanceData*
-  name: EncryptedResourceInstanceData
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationDeviceSystem_EncryptedResourceInstanceData_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.EncryptedResourceInstanceData
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.EncryptedResourceInstanceData
-  nameWithType: SerializationDeviceSystem.EncryptedResourceInstanceData
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.ResourceInstanceData
-  name: ResourceInstanceData
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationDeviceSystem_ResourceInstanceData
-  commentId: P:Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.ResourceInstanceData
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.ResourceInstanceData
-  nameWithType: SerializationDeviceSystem.ResourceInstanceData
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.ResourceInstanceData*
-  name: ResourceInstanceData
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationDeviceSystem_ResourceInstanceData_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.ResourceInstanceData
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.ResourceInstanceData
-  nameWithType: SerializationDeviceSystem.ResourceInstanceData
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.SourceSystemInfo
-  name: SourceSystemInfo
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationDeviceSystem_SourceSystemInfo
-  commentId: P:Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.SourceSystemInfo
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.SourceSystemInfo
-  nameWithType: SerializationDeviceSystem.SourceSystemInfo
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.SourceSystemInfo*
-  name: SourceSystemInfo
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationDeviceSystem_SourceSystemInfo_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.SourceSystemInfo
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystem.SourceSystemInfo
-  nameWithType: SerializationDeviceSystem.SourceSystemInfo
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage
-  name: SerializationDeviceSystemToCloudMessage
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.html
-  commentId: T:Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage
-  nameWithType: SerializationDeviceSystemToCloudMessage
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.CreateFrom(Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage)
-  name: CreateFrom(DeviceSystemToCloudMessage)
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationDeviceSystemToCloudMessage_CreateFrom_Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_DeviceSystemToCloudMessage_
-  commentId: M:Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.CreateFrom(Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage)
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.CreateFrom(Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage)
-  nameWithType: SerializationDeviceSystemToCloudMessage.CreateFrom(DeviceSystemToCloudMessage)
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.CreateFrom*
-  name: CreateFrom
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationDeviceSystemToCloudMessage_CreateFrom_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.CreateFrom
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.CreateFrom
-  nameWithType: SerializationDeviceSystemToCloudMessage.CreateFrom
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.Declaration
-  name: Declaration
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationDeviceSystemToCloudMessage_Declaration
-  commentId: P:Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.Declaration
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.Declaration
-  nameWithType: SerializationDeviceSystemToCloudMessage.Declaration
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.Declaration*
-  name: Declaration
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationDeviceSystemToCloudMessage_Declaration_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.Declaration
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.Declaration
-  nameWithType: SerializationDeviceSystemToCloudMessage.Declaration
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.DeviceSystems
-  name: DeviceSystems
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationDeviceSystemToCloudMessage_DeviceSystems
-  commentId: P:Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.DeviceSystems
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.DeviceSystems
-  nameWithType: SerializationDeviceSystemToCloudMessage.DeviceSystems
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.DeviceSystems*
-  name: DeviceSystems
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationDeviceSystemToCloudMessage_DeviceSystems_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.DeviceSystems
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.DeviceSystems
-  nameWithType: SerializationDeviceSystemToCloudMessage.DeviceSystems
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.GatewayInfo
-  name: GatewayInfo
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationDeviceSystemToCloudMessage_GatewayInfo
-  commentId: P:Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.GatewayInfo
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.GatewayInfo
-  nameWithType: SerializationDeviceSystemToCloudMessage.GatewayInfo
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.GatewayInfo*
-  name: GatewayInfo
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationDeviceSystemToCloudMessage_GatewayInfo_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.GatewayInfo
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationDeviceSystemToCloudMessage.GatewayInfo
-  nameWithType: SerializationDeviceSystemToCloudMessage.GatewayInfo
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo
-  name: SerializationEmbeddedSystemInfo
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.html
-  commentId: T:Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo
-  nameWithType: SerializationEmbeddedSystemInfo
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.CreateFrom(Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo)
-  name: CreateFrom(EmbeddedSystemInfo)
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationEmbeddedSystemInfo_CreateFrom_Hsm_IotMessages_DeviceSystemMessages_EmbeddedSystemInfo_
-  commentId: M:Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.CreateFrom(Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo)
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.CreateFrom(Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo)
-  nameWithType: SerializationEmbeddedSystemInfo.CreateFrom(EmbeddedSystemInfo)
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.CreateFrom*
-  name: CreateFrom
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationEmbeddedSystemInfo_CreateFrom_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.CreateFrom
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.CreateFrom
-  nameWithType: SerializationEmbeddedSystemInfo.CreateFrom
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.SoftwareIdentifier
-  name: SoftwareIdentifier
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationEmbeddedSystemInfo_SoftwareIdentifier
-  commentId: P:Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.SoftwareIdentifier
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.SoftwareIdentifier
-  nameWithType: SerializationEmbeddedSystemInfo.SoftwareIdentifier
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.SoftwareIdentifier*
-  name: SoftwareIdentifier
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationEmbeddedSystemInfo_SoftwareIdentifier_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.SoftwareIdentifier
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.SoftwareIdentifier
-  nameWithType: SerializationEmbeddedSystemInfo.SoftwareIdentifier
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.SoftwareVersion
-  name: SoftwareVersion
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationEmbeddedSystemInfo_SoftwareVersion
-  commentId: P:Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.SoftwareVersion
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.SoftwareVersion
-  nameWithType: SerializationEmbeddedSystemInfo.SoftwareVersion
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.SoftwareVersion*
-  name: SoftwareVersion
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationEmbeddedSystemInfo_SoftwareVersion_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.SoftwareVersion
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.SoftwareVersion
-  nameWithType: SerializationEmbeddedSystemInfo.SoftwareVersion
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.SystemId
-  name: SystemId
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationEmbeddedSystemInfo_SystemId
-  commentId: P:Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.SystemId
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.SystemId
-  nameWithType: SerializationEmbeddedSystemInfo.SystemId
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.SystemId*
-  name: SystemId
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationEmbeddedSystemInfo_SystemId_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.SystemId
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationEmbeddedSystemInfo.SystemId
-  nameWithType: SerializationEmbeddedSystemInfo.SystemId
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData
-  name: SerializationResourceInstanceData
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.html
-  commentId: T:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData
-  nameWithType: SerializationResourceInstanceData
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.CreateFrom(Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData)
-  name: CreateFrom(ResourceInstanceData)
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationResourceInstanceData_CreateFrom_Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_ResourceInstanceData_
-  commentId: M:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.CreateFrom(Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData)
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.CreateFrom(Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.ResourceInstanceData)
-  nameWithType: SerializationResourceInstanceData.CreateFrom(ResourceInstanceData)
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.CreateFrom*
-  name: CreateFrom
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationResourceInstanceData_CreateFrom_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.CreateFrom
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.CreateFrom
-  nameWithType: SerializationResourceInstanceData.CreateFrom
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.ResourceInstanceID
-  name: ResourceInstanceID
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationResourceInstanceData_ResourceInstanceID
-  commentId: P:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.ResourceInstanceID
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.ResourceInstanceID
-  nameWithType: SerializationResourceInstanceData.ResourceInstanceID
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.ResourceInstanceID*
-  name: ResourceInstanceID
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationResourceInstanceData_ResourceInstanceID_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.ResourceInstanceID
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.ResourceInstanceID
-  nameWithType: SerializationResourceInstanceData.ResourceInstanceID
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.ResourceInstancePackets
-  name: ResourceInstancePackets
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationResourceInstanceData_ResourceInstancePackets
-  commentId: P:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.ResourceInstancePackets
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.ResourceInstancePackets
-  nameWithType: SerializationResourceInstanceData.ResourceInstancePackets
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.ResourceInstancePackets*
-  name: ResourceInstancePackets
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationResourceInstanceData_ResourceInstancePackets_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.ResourceInstancePackets
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.ResourceInstancePackets
-  nameWithType: SerializationResourceInstanceData.ResourceInstancePackets
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.ResourceTypeId
-  name: ResourceTypeId
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationResourceInstanceData_ResourceTypeId
-  commentId: P:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.ResourceTypeId
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.ResourceTypeId
-  nameWithType: SerializationResourceInstanceData.ResourceTypeId
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.ResourceTypeId*
-  name: ResourceTypeId
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationResourceInstanceData_ResourceTypeId_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.ResourceTypeId
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstanceData.ResourceTypeId
-  nameWithType: SerializationResourceInstanceData.ResourceTypeId
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket
-  name: SerializationResourceInstancePacket
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.html
-  commentId: T:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket
-  nameWithType: SerializationResourceInstancePacket
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.CommunicationId
-  name: CommunicationId
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationResourceInstancePacket_CommunicationId
-  commentId: P:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.CommunicationId
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.CommunicationId
-  nameWithType: SerializationResourceInstancePacket.CommunicationId
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.CommunicationId*
-  name: CommunicationId
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationResourceInstancePacket_CommunicationId_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.CommunicationId
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.CommunicationId
-  nameWithType: SerializationResourceInstancePacket.CommunicationId
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.CreateFrom(Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase)
-  name: CreateFrom(ResourceInstancePacketBase)
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationResourceInstancePacket_CreateFrom_Hsm_IotMessages_DeviceSystemMessages_ResourceInstancePackets_ResourceInstancePacketBase_
-  commentId: M:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.CreateFrom(Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase)
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.CreateFrom(Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePackets.ResourceInstancePacketBase)
-  nameWithType: SerializationResourceInstancePacket.CreateFrom(ResourceInstancePacketBase)
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.CreateFrom*
-  name: CreateFrom
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationResourceInstancePacket_CreateFrom_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.CreateFrom
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.CreateFrom
-  nameWithType: SerializationResourceInstancePacket.CreateFrom
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.ErrorCode
-  name: ErrorCode
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationResourceInstancePacket_ErrorCode
-  commentId: P:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.ErrorCode
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.ErrorCode
-  nameWithType: SerializationResourceInstancePacket.ErrorCode
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.ErrorCode*
-  name: ErrorCode
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationResourceInstancePacket_ErrorCode_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.ErrorCode
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.ErrorCode
-  nameWithType: SerializationResourceInstancePacket.ErrorCode
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.PacketType
-  name: PacketType
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationResourceInstancePacket_PacketType
-  commentId: P:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.PacketType
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.PacketType
-  nameWithType: SerializationResourceInstancePacket.PacketType
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.PacketType*
-  name: PacketType
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationResourceInstancePacket_PacketType_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.PacketType
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.PacketType
-  nameWithType: SerializationResourceInstancePacket.PacketType
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.TimestampUtc
-  name: TimestampUtc
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationResourceInstancePacket_TimestampUtc
-  commentId: P:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.TimestampUtc
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.TimestampUtc
-  nameWithType: SerializationResourceInstancePacket.TimestampUtc
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.TimestampUtc*
-  name: TimestampUtc
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationResourceInstancePacket_TimestampUtc_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.TimestampUtc
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.TimestampUtc
-  nameWithType: SerializationResourceInstancePacket.TimestampUtc
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.Value
-  name: Value
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationResourceInstancePacket_Value
-  commentId: P:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.Value
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.Value
-  nameWithType: SerializationResourceInstancePacket.Value
-- uid: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.Value*
-  name: Value
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.html#Hsm_IotMessages_Serialization_DeviceMessage_SerializationResourceInstancePacket_Value_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.Value
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceMessage.SerializationResourceInstancePacket.Value
-  nameWithType: SerializationResourceInstancePacket.Value
-- uid: Hsm.IotMessages.Serialization.DeviceToCloudMessageSerializer
-  name: DeviceToCloudMessageSerializer
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceToCloudMessageSerializer.html
-  commentId: T:Hsm.IotMessages.Serialization.DeviceToCloudMessageSerializer
-  fullName: Hsm.IotMessages.Serialization.DeviceToCloudMessageSerializer
-  nameWithType: DeviceToCloudMessageSerializer
-- uid: Hsm.IotMessages.Serialization.DeviceToCloudMessageSerializer.Serialize(Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage)
-  name: Serialize(DeviceSystemToCloudMessage)
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceToCloudMessageSerializer.html#Hsm_IotMessages_Serialization_DeviceToCloudMessageSerializer_Serialize_Hsm_IotMessages_DeviceSystemMessages_DeviceToCloud_DeviceSystemToCloudMessage_
-  commentId: M:Hsm.IotMessages.Serialization.DeviceToCloudMessageSerializer.Serialize(Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage)
-  fullName: Hsm.IotMessages.Serialization.DeviceToCloudMessageSerializer.Serialize(Hsm.IotMessages.DeviceSystemMessages.DeviceToCloud.DeviceSystemToCloudMessage)
-  nameWithType: DeviceToCloudMessageSerializer.Serialize(DeviceSystemToCloudMessage)
-- uid: Hsm.IotMessages.Serialization.DeviceToCloudMessageSerializer.Serialize*
-  name: Serialize
-  href: api/Serialization/Hsm.IotMessages.Serialization.DeviceToCloudMessageSerializer.html#Hsm_IotMessages_Serialization_DeviceToCloudMessageSerializer_Serialize_
-  commentId: Overload:Hsm.IotMessages.Serialization.DeviceToCloudMessageSerializer.Serialize
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.DeviceToCloudMessageSerializer.Serialize
-  nameWithType: DeviceToCloudMessageSerializer.Serialize
-- uid: Hsm.IotMessages.Serialization.IMessageSerializationFactory
-  name: IMessageSerializationFactory
-  href: api/Serialization/Hsm.IotMessages.Serialization.IMessageSerializationFactory.html
-  commentId: T:Hsm.IotMessages.Serialization.IMessageSerializationFactory
-  fullName: Hsm.IotMessages.Serialization.IMessageSerializationFactory
-  nameWithType: IMessageSerializationFactory
-- uid: Hsm.IotMessages.Serialization.IMessageSerializationFactory.GetDeserializer(System.String)
-  name: GetDeserializer(String)
-  href: api/Serialization/Hsm.IotMessages.Serialization.IMessageSerializationFactory.html#Hsm_IotMessages_Serialization_IMessageSerializationFactory_GetDeserializer_System_String_
-  commentId: M:Hsm.IotMessages.Serialization.IMessageSerializationFactory.GetDeserializer(System.String)
-  fullName: Hsm.IotMessages.Serialization.IMessageSerializationFactory.GetDeserializer(System.String)
-  nameWithType: IMessageSerializationFactory.GetDeserializer(String)
-- uid: Hsm.IotMessages.Serialization.IMessageSerializationFactory.GetDeserializer*
-  name: GetDeserializer
-  href: api/Serialization/Hsm.IotMessages.Serialization.IMessageSerializationFactory.html#Hsm_IotMessages_Serialization_IMessageSerializationFactory_GetDeserializer_
-  commentId: Overload:Hsm.IotMessages.Serialization.IMessageSerializationFactory.GetDeserializer
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.IMessageSerializationFactory.GetDeserializer
-  nameWithType: IMessageSerializationFactory.GetDeserializer
-- uid: Hsm.IotMessages.Serialization.IMessageSerializationFactory.GetSerializer(Hsm.IotMessages.HsmIotMessage)
-  name: GetSerializer(HsmIotMessage)
-  href: api/Serialization/Hsm.IotMessages.Serialization.IMessageSerializationFactory.html#Hsm_IotMessages_Serialization_IMessageSerializationFactory_GetSerializer_Hsm_IotMessages_HsmIotMessage_
-  commentId: M:Hsm.IotMessages.Serialization.IMessageSerializationFactory.GetSerializer(Hsm.IotMessages.HsmIotMessage)
-  fullName: Hsm.IotMessages.Serialization.IMessageSerializationFactory.GetSerializer(Hsm.IotMessages.HsmIotMessage)
-  nameWithType: IMessageSerializationFactory.GetSerializer(HsmIotMessage)
-- uid: Hsm.IotMessages.Serialization.IMessageSerializationFactory.GetSerializer*
-  name: GetSerializer
-  href: api/Serialization/Hsm.IotMessages.Serialization.IMessageSerializationFactory.html#Hsm_IotMessages_Serialization_IMessageSerializationFactory_GetSerializer_
-  commentId: Overload:Hsm.IotMessages.Serialization.IMessageSerializationFactory.GetSerializer
-  isSpec: "True"
-  fullName: Hsm.IotMessages.Serialization.IMessageSerializationFactory.GetSerializer
-  nameWithType: IMessageSerializationFactory.GetSerializer
