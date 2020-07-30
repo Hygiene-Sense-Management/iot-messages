@@ -106,7 +106,7 @@ This class represents this identifier.</p>
   </h3>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20IoT%20Data%20Exchange%20Protocols/_git/HsM%20IoT%20Data%20Exchange%20Protocols?path=DotNet/Hsm.IotMessages/DeviceSystemMessages/ResourceInstanceIdentifier.cs&amp;version=GBmaster&amp;line=17">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20IoT%20Data%20Exchange%20Protocols/_git/HsM%20IoT%20Data%20Exchange%20Protocols?path=DotNet/Hsm.IotMessages/DeviceSystemMessages/ResourceInstanceIdentifier.cs&amp;version=GBFeature/Extend-example-serialization-file-IDEP-3&amp;line=17">View Source</a>
   </span>
   <a id="Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier__ctor_" data-uid="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.#ctor*"></a>
   <h4 id="Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier__ctor_System_Int16_System_Int16_" data-uid="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.#ctor(System.Int16,System.Int16)">ResourceInstanceIdentifier(Int16, Int16)</h4>
@@ -115,7 +115,7 @@ This class represents this identifier.</p>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public ResourceInstanceIdentifier(short resourceTypeId, short resourceInstanceId)</code></pre>
+    <pre><code class="lang-csharp hljs">public ResourceInstanceIdentifier(short resourceTypeId, short resourceInstanceNumber)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -135,8 +135,8 @@ This class represents this identifier.</p>
       </tr>
       <tr>
         <td><span class="xref">System.Int16</span></td>
-        <td><span class="parametername">resourceInstanceId</span></td>
-        <td><p>Id of the instance.</p>
+        <td><span class="parametername">resourceInstanceNumber</span></td>
+        <td><p>Number of the instance.</p>
 </td>
       </tr>
     </tbody>
@@ -145,16 +145,16 @@ This class represents this identifier.</p>
   </h3>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20IoT%20Data%20Exchange%20Protocols/_git/HsM%20IoT%20Data%20Exchange%20Protocols?path=DotNet/Hsm.IotMessages/DeviceSystemMessages/ResourceInstanceIdentifier.cs&amp;version=GBmaster&amp;line=31">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20IoT%20Data%20Exchange%20Protocols/_git/HsM%20IoT%20Data%20Exchange%20Protocols?path=DotNet/Hsm.IotMessages/DeviceSystemMessages/ResourceInstanceIdentifier.cs&amp;version=GBFeature/Extend-example-serialization-file-IDEP-3&amp;line=31">View Source</a>
   </span>
-  <a id="Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_InstanceId_" data-uid="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.InstanceId*"></a>
-  <h4 id="Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_InstanceId" data-uid="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.InstanceId">InstanceId</h4>
-  <div class="markdown level1 summary"><p>Gets the instance id.</p>
+  <a id="Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_ResourceInstanceNumber_" data-uid="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.ResourceInstanceNumber*"></a>
+  <h4 id="Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_ResourceInstanceNumber" data-uid="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.ResourceInstanceNumber">ResourceInstanceNumber</h4>
+  <div class="markdown level1 summary"><p>Gets the resource instance number.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public short InstanceId { get; }</code></pre>
+    <pre><code class="lang-csharp hljs">public short ResourceInstanceNumber { get; }</code></pre>
   </div>
   <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -173,16 +173,16 @@ This class represents this identifier.</p>
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20IoT%20Data%20Exchange%20Protocols/_git/HsM%20IoT%20Data%20Exchange%20Protocols?path=DotNet/Hsm.IotMessages/DeviceSystemMessages/ResourceInstanceIdentifier.cs&amp;version=GBmaster&amp;line=26">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20IoT%20Data%20Exchange%20Protocols/_git/HsM%20IoT%20Data%20Exchange%20Protocols?path=DotNet/Hsm.IotMessages/DeviceSystemMessages/ResourceInstanceIdentifier.cs&amp;version=GBFeature/Extend-example-serialization-file-IDEP-3&amp;line=26">View Source</a>
   </span>
-  <a id="Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_TypeId_" data-uid="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.TypeId*"></a>
-  <h4 id="Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_TypeId" data-uid="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.TypeId">TypeId</h4>
-  <div class="markdown level1 summary"><p>GEts the resource type id.</p>
+  <a id="Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_ResourceTypeId_" data-uid="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.ResourceTypeId*"></a>
+  <h4 id="Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_ResourceTypeId" data-uid="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.ResourceTypeId">ResourceTypeId</h4>
+  <div class="markdown level1 summary"><p>Gets the resource type id.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public short TypeId { get; }</code></pre>
+    <pre><code class="lang-csharp hljs">public short ResourceTypeId { get; }</code></pre>
   </div>
   <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -203,7 +203,7 @@ This class represents this identifier.</p>
   </h3>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20IoT%20Data%20Exchange%20Protocols/_git/HsM%20IoT%20Data%20Exchange%20Protocols?path=DotNet/Hsm.IotMessages/DeviceSystemMessages/ResourceInstanceIdentifier.cs&amp;version=GBmaster&amp;line=44">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20IoT%20Data%20Exchange%20Protocols/_git/HsM%20IoT%20Data%20Exchange%20Protocols?path=DotNet/Hsm.IotMessages/DeviceSystemMessages/ResourceInstanceIdentifier.cs&amp;version=GBFeature/Extend-example-serialization-file-IDEP-3&amp;line=44">View Source</a>
   </span>
   <a id="Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_Equals_" data-uid="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.Equals*"></a>
   <h4 id="Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_Equals_Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_" data-uid="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.Equals(Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier)">Equals(ResourceInstanceIdentifier)</h4>
@@ -247,7 +247,7 @@ This class represents this identifier.</p>
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20IoT%20Data%20Exchange%20Protocols/_git/HsM%20IoT%20Data%20Exchange%20Protocols?path=DotNet/Hsm.IotMessages/DeviceSystemMessages/ResourceInstanceIdentifier.cs&amp;version=GBmaster&amp;line=38">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20IoT%20Data%20Exchange%20Protocols/_git/HsM%20IoT%20Data%20Exchange%20Protocols?path=DotNet/Hsm.IotMessages/DeviceSystemMessages/ResourceInstanceIdentifier.cs&amp;version=GBFeature/Extend-example-serialization-file-IDEP-3&amp;line=38">View Source</a>
   </span>
   <a id="Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_Equals_" data-uid="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.Equals*"></a>
   <h4 id="Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_Equals_System_Object_" data-uid="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.Equals(System.Object)">Equals(Object)</h4>
@@ -293,7 +293,7 @@ This class represents this identifier.</p>
   <div><span class="xref">System.ValueType.Equals(System.Object)</span></div>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20IoT%20Data%20Exchange%20Protocols/_git/HsM%20IoT%20Data%20Exchange%20Protocols?path=DotNet/Hsm.IotMessages/DeviceSystemMessages/ResourceInstanceIdentifier.cs&amp;version=GBmaster&amp;line=47">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20IoT%20Data%20Exchange%20Protocols/_git/HsM%20IoT%20Data%20Exchange%20Protocols?path=DotNet/Hsm.IotMessages/DeviceSystemMessages/ResourceInstanceIdentifier.cs&amp;version=GBFeature/Extend-example-serialization-file-IDEP-3&amp;line=47">View Source</a>
   </span>
   <a id="Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_GetHashCode_" data-uid="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.GetHashCode*"></a>
   <h4 id="Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_GetHashCode" data-uid="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.GetHashCode">GetHashCode()</h4>
@@ -324,7 +324,7 @@ This class represents this identifier.</p>
   </h3>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20IoT%20Data%20Exchange%20Protocols/_git/HsM%20IoT%20Data%20Exchange%20Protocols?path=DotNet/Hsm.IotMessages/DeviceSystemMessages/ResourceInstanceIdentifier.cs&amp;version=GBmaster&amp;line=33">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20IoT%20Data%20Exchange%20Protocols/_git/HsM%20IoT%20Data%20Exchange%20Protocols?path=DotNet/Hsm.IotMessages/DeviceSystemMessages/ResourceInstanceIdentifier.cs&amp;version=GBFeature/Extend-example-serialization-file-IDEP-3&amp;line=33">View Source</a>
   </span>
   <a id="Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_op_Equality_" data-uid="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.op_Equality*"></a>
   <h4 id="Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_op_Equality_Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_" data-uid="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.op_Equality(Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier,Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier)">Equality(ResourceInstanceIdentifier, ResourceInstanceIdentifier)</h4>
@@ -373,7 +373,7 @@ This class represents this identifier.</p>
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20IoT%20Data%20Exchange%20Protocols/_git/HsM%20IoT%20Data%20Exchange%20Protocols?path=DotNet/Hsm.IotMessages/DeviceSystemMessages/ResourceInstanceIdentifier.cs&amp;version=GBmaster&amp;line=35">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20IoT%20Data%20Exchange%20Protocols/_git/HsM%20IoT%20Data%20Exchange%20Protocols?path=DotNet/Hsm.IotMessages/DeviceSystemMessages/ResourceInstanceIdentifier.cs&amp;version=GBFeature/Extend-example-serialization-file-IDEP-3&amp;line=35">View Source</a>
   </span>
   <a id="Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_op_Inequality_" data-uid="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.op_Inequality*"></a>
   <h4 id="Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_op_Inequality_Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_Hsm_IotMessages_DeviceSystemMessages_ResourceInstanceIdentifier_" data-uid="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.op_Inequality(Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier,Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier)">Inequality(ResourceInstanceIdentifier, ResourceInstanceIdentifier)</h4>
@@ -432,7 +432,7 @@ This class represents this identifier.</p>
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://dev.azure.com/hagleitner-dev/HsM%20IoT%20Data%20Exchange%20Protocols/_git/HsM%20IoT%20Data%20Exchange%20Protocols?path=DotNet/Hsm.IotMessages/DeviceSystemMessages/ResourceInstanceIdentifier.cs&amp;version=GBmaster&amp;line=10" class="contribution-link">View Source</a>
+                    <a href="https://dev.azure.com/hagleitner-dev/HsM%20IoT%20Data%20Exchange%20Protocols/_git/HsM%20IoT%20Data%20Exchange%20Protocols?path=DotNet/Hsm.IotMessages/DeviceSystemMessages/ResourceInstanceIdentifier.cs&amp;version=GBFeature/Extend-example-serialization-file-IDEP-3&amp;line=10" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>

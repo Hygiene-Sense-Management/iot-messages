@@ -77,20 +77,138 @@
   <div class="markdown level0 remarks"></div>
     <h3 id="classes">Classes
   </h3>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.ArrayType-1.html">ArrayType&lt;T&gt;</a></h4>
+      <section><p>Represents a catalog specific array data type for resource types. This type consists of a <span class="xref">System.Collections.Generic.List&lt;T&gt;</span> of <a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.CatalogDataType-1.html">CatalogDataType&lt;T&gt;</a>.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.BoolType.html">BoolType</a></h4>
+      <section><p>Represents a catalog specific boolean data type for resource types.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.CatalogDataType-1.html">CatalogDataType&lt;T&gt;</a></h4>
+      <section><p>Represents a catalog specific data type for resource types.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.CatalogDataTypeBase.html">CatalogDataTypeBase</a></h4>
+      <section><p>Represents a base for catalog specific data types for resource types.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.CloudToDeviceSystemMessage.html">CloudToDeviceSystemMessage</a></h4>
+      <section><p>A message sent by a gateway to the backend system including device data.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.CloudToDeviceSystemMessageSender.html">CloudToDeviceSystemMessageSender</a></h4>
+      <section><p>Represents the sender of the <a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.CloudToDeviceSystemMessage.html">CloudToDeviceSystemMessage</a>.</p>
+</section>
       <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.DeviceSystemMessage.html">DeviceSystemMessage</a></h4>
       <section><p>A <a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.DeviceSystemMessage.html">DeviceSystemMessage</a> is a message communicated between the HSM Backend and an embedded system
 installed within a device (the device system). A <a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.DeviceSystemMessage.html">DeviceSystemMessage</a> is used for sending data from
 a device to the backend as well as from the backend to a device.
 A <a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.DeviceSystemMessage.html">DeviceSystemMessage</a> is usually relayed via gateways.</p>
 </section>
-      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.EmbeddedSystemInfo.html">EmbeddedSystemInfo</a></h4>
-      <section><p>This class describes an embedded system.</p>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.DeviceSystemToCloudMessage.html">DeviceSystemToCloudMessage</a></h4>
+      <section><p>A message sent by a gateway to the backend system including device data.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.DoubleType.html">DoubleType</a></h4>
+      <section><p>Represents a catalog specific double data type for resource types.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.DownlinkError.html">DownlinkError</a></h4>
+      <section><p>Represents an error sent to the device systems.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.DownlinkResourceInstancePacket.html">DownlinkResourceInstancePacket</a></h4>
+      <section><p>Packet that is sent from the backend systems to a device (usually via a gateway).</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.GatewayInfo.html">GatewayInfo</a></h4>
+      <section><p>This class describes a gateway.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.Int16Type.html">Int16Type</a></h4>
+      <section><p>Represents a catalog specific short data type for resource types.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.Int32Type.html">Int32Type</a></h4>
+      <section><p>Represents a catalog specific integer data type for resource types.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.Int64Type.html">Int64Type</a></h4>
+      <section><p>Represents a catalog specific long data type for resource types.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.Int8Type.html">Int8Type</a></h4>
+      <section><p>Represents a catalog specific byte data type for resource types.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.ReadRequest.html">ReadRequest</a></h4>
+      <section><p>A packet for requesting a device to send a specific resource's value.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.ReadResponse.html">ReadResponse</a></h4>
+      <section><p>A packet holding a resource instance's value, sent in response to a read request.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.ReceiptAcknowledgment.html">ReceiptAcknowledgment</a></h4>
+      <section><p>A <a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.DownlinkResourceInstancePacket.html">DownlinkResourceInstancePacket</a> used to send a receipt acknowledgment to a device system.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceDataDownlink.html">ResourceInstanceDataDownlink</a></h4>
+      <section><p>Data for or from a specific resource instance within an embedded system.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceDataUplink.html">ResourceInstanceDataUplink</a></h4>
+      <section><p>Data for or from a specific resource instance within an embedded system.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePacketBase.html">ResourceInstancePacketBase</a></h4>
+      <section><p>A resource instance packet is a data structure used to transfer data for or about resource instances between backend systems and devices via gateways.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.SourceSystemData.html">SourceSystemData</a></h4>
+      <section><p>Represents data of a single embedded system delivering resource data.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.SourceSystemInfo.html">SourceSystemInfo</a></h4>
+      <section><p>This class describes a source system.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.StringType.html">StringType</a></h4>
+      <section><p>Represents a catalog specific string data type for resource types.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.TargetSystemData.html">TargetSystemData</a></h4>
+      <section><p>This class describes a target system.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.Uint16Type.html">Uint16Type</a></h4>
+      <section><p>Represents a catalog specific unsigned short data type for resource types.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.Uint32Type.html">Uint32Type</a></h4>
+      <section><p>Represents a catalog specific unsigned integer data type for resource types.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.Uint64Type.html">Uint64Type</a></h4>
+      <section><p>Represents a catalog specific unsigned long data type for resource types.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.Uint8Type.html">Uint8Type</a></h4>
+      <section><p>Represents a catalog specific signed byte data type for resource types.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.UplinkError.html">UplinkError</a></h4>
+      <section><p>Represents an error sent to the backend systems.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.UplinkResourceInstancePacket.html">UplinkResourceInstancePacket</a></h4>
+      <section><p>A <a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePacketBase.html">ResourceInstancePacketBase</a> for uplink communication.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.Value.html">Value</a></h4>
+      <section><p>A common base class for all <a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.UplinkResourceInstancePacket.html">UplinkResourceInstancePacket</a> classes that include a value of a resource instance.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.ValueIndication.html">ValueIndication</a></h4>
+      <section><p>A <a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.UplinkResourceInstancePacket.html">UplinkResourceInstancePacket</a> for sending a resource instance datum.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.WriteAcknowledgment.html">WriteAcknowledgment</a></h4>
+      <section><p>A <a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.UplinkResourceInstancePacket.html">UplinkResourceInstancePacket</a> used to send a write acknowledgment to the backend.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.WriteRequest-1.html">WriteRequest&lt;T&gt;</a></h4>
+      <section><p>A <a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.DownlinkResourceInstancePacket.html">DownlinkResourceInstancePacket</a> used to send write requests to devices.</p>
 </section>
     <h3 id="structs">Structs
   </h3>
       <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html">ResourceInstanceIdentifier</a></h4>
       <section><p>A resource instance is uniquely identified by the resource type and the instance number.
 This class represents this identifier.</p>
+</section>
+    <h3 id="interfaces">Interfaces
+  </h3>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.ISpecificDataType.html">ISpecificDataType</a></h4>
+      <section><p>An interface for catalog specific data types.</p>
+</section>
+    <h3 id="enums">Enums
+  </h3>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.ArraySpecificDataType.html">ArraySpecificDataType</a></h4>
+      <section><p>Enumeration of possible array data types.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.SpecificDataType.html">SpecificDataType</a></h4>
+      <section><p>Enumeration of specific data type.</p>
+</section>
+      <h4><a class="xref" href="Hsm.IotMessages.DeviceSystemMessages.TransmissionMode.html">TransmissionMode</a></h4>
+      <section><p>The transmission mode defines how a resource instance datum was delivered to the backend.</p>
 </section>
 </article>
           </div>
