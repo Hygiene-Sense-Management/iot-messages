@@ -1,0 +1,714 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/daniel.egger/source/repos/HsmIotDataExchange/DotNet/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ArraySpecificDataType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ArraySpecificDataType.html",
+          "hash": "m77zZFlzkKjqIf0cCSsFCg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ArrayType-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ArrayType-1.html",
+          "hash": "EWe5/P1GWjqQ039dpku8dQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.BoolType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.BoolType.html",
+          "hash": "afwJ68w2ks+xNnJmeXvzWA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.CatalogDataType-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.CatalogDataType-1.html",
+          "hash": "UQnMFBXchNAYa89qdkwRVA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.CatalogDataTypeBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.CatalogDataTypeBase.html",
+          "hash": "MpIkAGumf3HeyyUAnXvYBA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.CloudToDeviceSystemMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.CloudToDeviceSystemMessage.html",
+          "hash": "PlaQsB9TYddeme7vzo+vqA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.CloudToDeviceSystemMessageSender.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.CloudToDeviceSystemMessageSender.html",
+          "hash": "o/9+xdscizaq/Ifrf5wbBw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.DeviceSystemMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.DeviceSystemMessage.html",
+          "hash": "s0nNfrnzpir5dCt+xnU/qA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.DeviceSystemToCloudMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.DeviceSystemToCloudMessage.html",
+          "hash": "r6njvPaHjWH+cJP2MY7pWw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.DoubleType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.DoubleType.html",
+          "hash": "1IBwC6mmvaaf2/K4/DQJGg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.DownlinkError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.DownlinkError.html",
+          "hash": "LYCNuXYR1nfj1sRB3sdoPA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.DownlinkResourceInstancePacket.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.DownlinkResourceInstancePacket.html",
+          "hash": "YgD5MJOtQ/bF+3qH/mYFpQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.GatewayInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.GatewayInfo.html",
+          "hash": "PJ31lAb55eXPnXMn7jO03A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ISpecificDataType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ISpecificDataType.html",
+          "hash": "oemCyNUQBJ7dLLKRs2Dt1w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.Int16Type.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.Int16Type.html",
+          "hash": "IHBh/Mv4mpusdz1zB/quYg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.Int32Type.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.Int32Type.html",
+          "hash": "Z0puGHJoGrqn7Mq9c5cHSw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.Int64Type.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.Int64Type.html",
+          "hash": "yv5qyGuRAtDbOOcV1PuXaA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.Int8Type.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.Int8Type.html",
+          "hash": "p/xY4HDphOs7yXBuhjZ+fw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ReadRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ReadRequest.html",
+          "hash": "RcSIr8evyrFDTwLuf0XYiw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ReadResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ReadResponse.html",
+          "hash": "xetEe0S9q0ANqCUB+V+zdA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ReceiptAcknowledgment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ReceiptAcknowledgment.html",
+          "hash": "PA2YQ3RJeHGvHthy3SNJHQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceDataDownlink.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceDataDownlink.html",
+          "hash": "HQMHc/Ol776TqKnykVO1gQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceDataUplink.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceDataUplink.html",
+          "hash": "vx07gPAJhmP04C0Ul/005w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstanceIdentifier.html",
+          "hash": "OZGPDrdyW2j6ChKguk7qmQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePacketBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ResourceInstancePacketBase.html",
+          "hash": "oRPKz47vofxgDA1a2dV+2g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.SourceSystemData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.SourceSystemData.html",
+          "hash": "pGJSSDsm/xlJKFNYVQlofA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.SourceSystemInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.SourceSystemInfo.html",
+          "hash": "D8/pP7bqXsnHF4mBzyWJSQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.SpecificDataType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.SpecificDataType.html",
+          "hash": "lk9WB6fdMRc0ZQHRDHxyqg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.StringType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.StringType.html",
+          "hash": "Yo6FOZLuQP3IqK9oklfp1g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.TargetSystemData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.TargetSystemData.html",
+          "hash": "oZZnGMJSi8R7v7rJcOfSnw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.TransmissionMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.TransmissionMode.html",
+          "hash": "09v/ZL8l/W7N/g03RLed3Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.Uint16Type.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.Uint16Type.html",
+          "hash": "JiIAN0peA1IpRNGllYwTRA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.Uint32Type.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.Uint32Type.html",
+          "hash": "o5CSY4SX57h4vq+H0YGc+w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.Uint64Type.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.Uint64Type.html",
+          "hash": "eGYpuvXk4yz1aKqf07xkXw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.Uint8Type.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.Uint8Type.html",
+          "hash": "3CIcQJxCirvifxS2xgo5DA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.UplinkError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.UplinkError.html",
+          "hash": "E8qJtPkjcECNJMVaUxinGA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.UplinkResourceInstancePacket.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.UplinkResourceInstancePacket.html",
+          "hash": "4fLNMjwjDmTTyWgPGCXEUA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.Value.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.Value.html",
+          "hash": "RhRanKOnvdJ66PM1c6Vifw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ValueIndication.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.ValueIndication.html",
+          "hash": "FBofumI7S7ZIKUdZDEKQ8w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.WriteAcknowledgment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.WriteAcknowledgment.html",
+          "hash": "0DV+f2CSwgUFaqrUSCUXcw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.WriteRequest-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.WriteRequest-1.html",
+          "hash": "h9wV7JAykhNxHLK+2JGHrA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.DeviceSystemMessages.html",
+          "hash": "ciREjJqb8xGu018E6McANw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.Envelopes.ProcessingResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.Envelopes.ProcessingResult.html",
+          "hash": "LEQoMUdQoeHc9VUBhebbdw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.Envelopes.ProcessingWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.Envelopes.ProcessingWrapper.html",
+          "hash": "lBXVCHzH55pv7+57fP6aEw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.Envelopes.ProcessingWrapperBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.Envelopes.ProcessingWrapperBase.html",
+          "hash": "txDSQTlKvMIOda0YRJhg8Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.Envelopes.Sender.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.Envelopes.Sender.html",
+          "hash": "Jwmq0R1Lwh+1TuqmTTNkvQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.Envelopes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.Envelopes.html",
+          "hash": "IS8QxmbgrckgcTz4cErhbg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.HsmIotMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.HsmIotMessage.html",
+          "hash": "/r2R3N6wAJCP7EgXQ1WndQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.IotMessages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.IotMessages.html",
+          "hash": "L55x9WazM8Z8iHvouStK3w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "G+D+KA+E88FGcexJNYY9tw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "HSLzCNIaV7+djhO86fH3qA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "uQTLCGLCfEj9EGeX8D2fdg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "gB8AESyvNru97tzIZofEEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "3OE9xpA+pzRq+tbXE39EDg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "+rHUkRZHZRi5gd1aTU6lJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 3
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 49,
+          "skipped_file_count": 48
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
